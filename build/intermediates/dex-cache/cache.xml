@@ -1,2 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/cain/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/gson-2.6.1_ac5bf9204abb8a3043528aff93e0c4d2dff79bb2.jar" />
+    </item>
+    <item
+        jar="/Users/cain/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_e344f220f0372bc6ee3ebf3685e6c728bcae95ee.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_14665639d16e12274f7823e28b7f0785f5799c57.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5d83691a6354628338e33d0fe1b221ac9656896">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f15d16eef7c74ea7036c323ab23bf67d9fc0ee49.jar" />
+    </item>
+    <item
+        jar="/Users/cain/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/okio-1.6.0_db406f75495b14ddb9372dfa7a3431b7bcfafa06.jar" />
+    </item>
+    <item
+        jar="/Users/cain/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_0e4288a8a626168cb3da77a81935e3cb5f3e68c5.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_3d9955179a7b7e41c8448b1e71668675dd8adf81.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_4be22a5c89aa9d2f2e7939fd5c6434bf36bae09d.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_7be4d5aca667c9a3eb5346704dbf34b6a8d5778f.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_ff87ee737db975d43cae3950e2a68122aa657920.jar" />
+    </item>
+    <item
+        jar="/Users/cain/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_56dd6335ac96b4b5b4bc2e977b7e8e9931e98681.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/Evn/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_05ce2611f00d84211d62d34939e036afeafddf41.jar" />
+    </item>
+    <item
+        jar="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ecc6d297a157eb5e31dac009b5281d5892ccebeb">
+        <dex dex="/Users/cain/Documents/mygithub/CainRetrofit/app/build/intermediates/pre-dexed/debug/instant-run_b90809ce74f61c851ccb707f27e1a01e1f2e832d.jar" />
+    </item>
+
+</items>

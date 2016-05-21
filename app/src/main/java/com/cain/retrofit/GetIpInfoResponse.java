@@ -5,6 +5,9 @@ package com.cain.retrofit;
  */
 public class GetIpInfoResponse {
 
+    /**
+     * 城市
+     */
     private String country;
 
     private String country_id;
